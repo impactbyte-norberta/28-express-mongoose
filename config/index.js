@@ -1,5 +1,5 @@
 const db = require('./database');
-const { PORT, MONGODB_URI_LOCAL } = require('./environment');
+const { PORT, MONGODB_URI_LOCAL, MONGODB_URI_LIVE } = require('./environment');
 
 module.exports = {
     db,
