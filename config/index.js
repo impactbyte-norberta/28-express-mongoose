@@ -5,4 +5,5 @@ module.exports = {
     db,
     PORT,
     MONGODB_URI_LOCAL,
+    MONGODB_URI_LIVE,
 };
